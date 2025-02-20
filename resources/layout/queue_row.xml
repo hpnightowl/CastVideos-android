@@ -151,7 +151,7 @@
             android:layout_alignParentBottom="true"
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:layout_toRightOf="@+id/imageView1"
+            android:layout_toRightOf="@+id/imageViewLayout"
             android:background="@drawable/vertical_divider" />
 
     </RelativeLayout>
